@@ -1,0 +1,1 @@
+cat .\NowaFunkcja.cs
