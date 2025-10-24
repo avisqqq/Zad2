@@ -69,7 +69,7 @@ partial class Program
 
 
 
-                        if (count /*??*/ 0)
+                        if (count == 0)
 
                         {
 
