@@ -1,9 +1,7 @@
-﻿
-using System;
+﻿using System;
 
 
-
-class Program
+partial class Program
 
 {
 
@@ -127,7 +125,7 @@ class Program
 
         char[,] board = new char[height, width];
 
-        Random random = /*??*/
+        Random random = new Random();
 
 
 
