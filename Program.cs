@@ -362,7 +362,7 @@ partial class Program
 
 
 
-        return uncoveredCount == /* ??*/ *height - bombCount;
+        return uncoveredCount == width*height - bombCount;
 
     }
 
